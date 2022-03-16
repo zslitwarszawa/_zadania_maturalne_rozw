@@ -5,4 +5,5 @@ try {
   console.log(data)
 } catch (err) {
   console.error(err)
+  // zmiana
 }
